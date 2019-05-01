@@ -1,0 +1,73 @@
+/* GOOGLE FONTS */
+
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville%7CPlayfair+Display%7CSource+Serif+Pro'); 
+
+
+
+/* */
+
+.interest-images {
+  height: 452px;
+  background-image: url('/assets/img/contacts.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.interest-images2 {
+  height: 500px;
+  background-image: url('/assets/img/mewithbangs.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.interest-images3 {
+  height: 500px;
+  background-image: url('/assets/img/Hiroyuki.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  }
+.space {
+  height: 50px
+}
+
+.title {
+  font-size: 60px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 30px;
+  font-family: 'Playfair Display', serif;
+}
+
+.abc {
+  font-size: 30px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 15px;
+  font-family: 'Libre Baskerville', serif;
+}
+
+.dfg {
+  font-size: 25px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  top: 20px;
+  font-family: 'Source Serif Pro', serif;
+}
+
+.space2 {
+  height: 27px
+}
+
+.interest-images1 {
+  height: 500px;
+  background-image: url('/assets/img/andres.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
